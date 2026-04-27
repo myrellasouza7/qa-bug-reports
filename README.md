@@ -32,7 +32,7 @@ O antivírus bloqueou o acesso por considerar a conexão insegura
 Possível problema de segurança devido à ausência de certificado SSL, impactando o acesso em determinados ambientes.
 
 ## Evidências: 
-Erro no navegador Google Chrome:![Erro no navegador Google Chrome](https://raw.githubusercontent.com/myrellasouza7/qa-bug-reports/refs/heads/main/Captura%20de%20tela%202026-04-27%20123931.png)
+Erro Chrome:![Erro no navegador Google Chrome](https://raw.githubusercontent.com/myrellasouza7/qa-bug-reports/refs/heads/main/Captura%20de%20tela%202026-04-27%20123931.png)
 
 Funcionando normalmente no navegador Microsoft Edge:![Funcionando normalmente no navegador Microsoft Edge](https://raw.githubusercontent.com/myrellasouza7/qa-bug-reports/refs/heads/main/Captura%20de%20tela%202026-04-27%20130453.png)
 
