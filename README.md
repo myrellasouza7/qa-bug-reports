@@ -5,7 +5,7 @@ Relatório de teste realizado no site do Diário Oficial do Estado (DOE), identi
 Acesso ao site do DOE via navegador
 
 ## Problema identificado:
-Erro de conexão ao acessar o site no Google Chrome 
+Erro de conexão ao acessar o site no Chrome 
 (ERR_CONNECTION_TIMED_OUT)
 
 ## Ambiente:
