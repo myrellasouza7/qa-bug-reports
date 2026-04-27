@@ -9,7 +9,7 @@ Erro de conexão ao acessar o site no Google Chrome
 (ERR_CONNECTION_TIMED_OUT)
 
 ## Ambiente:
-Navegador: Google Chrome (erro)
+Navegador: Chrome (erro)
 Navegador: Microsoft Edge (funcionando)
 Sistema operacional: Windows
 
