@@ -1,5 +1,5 @@
-# QA Bug Report — DOE Website
-Relatório de teste realizado no site do Diário Oficial do Estado (DOE), identificando falha de acesso em navegador específico.
+QA Bug Report — DOE Website
+# Relatório de teste realizado no site do Diário Oficial do Estado (DOE), identificando falha de acesso em navegador específico.
 
 ## Cenário de Teste:
 Acesso ao site do DOE via navegador
